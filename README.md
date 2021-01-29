@@ -1,4 +1,4 @@
-# Justify Paragraph By Page Width
+# About
 
 It's a program that can accept a paragraph string and page width as parameters and return an array of left and right justified string.
 
